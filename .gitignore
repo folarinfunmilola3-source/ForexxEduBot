@@ -1,17 +1,6 @@
-# Python
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
 .env
 venv/
-env/
-ENV/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Railway
 .DS_Store
+*.log
