@@ -1,1 +1,1 @@
-worker: python -u main.py
+python-telegram-bot==20.0
